@@ -1,6 +1,6 @@
 # Transcribero 🧬
 
-An interactive command-line utility built in Python using the **Biopython** library. This tool allows users to securely authenticate and batch-process multiple DNA sequences simultaneously, transcribing them into their corresponding mRNA strands.
+An interactive command-line utility built in Python using the **Biopython** library. This tool allows users to securely authenticate and batch-process multiple DNA sequences simultaneously, transcribing them into their corresponding mRNA strands. (I AM A BEGINNER AND 17 YO. SINCE I AM NEW TO THIS SUGGESTIONS AND YOUR OPINIONS WILL MEAN A LOT GUYS. THANK YOU!)
 
 ---
 
